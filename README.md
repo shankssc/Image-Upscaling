@@ -4,7 +4,7 @@ This project is part of the curriculum in ENGR-E533 (Deep learning Systems) cour
 return high quality images as output. The visual presentation for this project can be found on [YouTube](https://youtu.be/cyD4tQKoBOg).
 
 The slides of this projct are included in the repository itself as [`Presentation.pptx`](./Presentation.pptx) as well the report that outlines the work done for this
-project, [`Image_Upscaling.pdf`](https://github.iu.edu/suschaud/Image_Upscaling_ENGRE-533/blob/main/Image%20upscaling.pdf).
+project, [`Image_Upscaling.pdf`](./Image_upscaling.pdf).
 
 ## Data
 
